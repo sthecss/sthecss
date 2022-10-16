@@ -24,3 +24,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical">
   <img src="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical" />
 </a>
+
+<a href="http://github-readme-streak-stats.herokuapp.com?user=sthecss&theme=violet-dark&hide_border=verdadeiro&locale=pt-br">
+  <img align="right" src= "https://imgur.com/mYlfKg4"><img src="https://i.imgur.com/mYlfKg4.gif" title="source: imgur.com" />
+</a>
