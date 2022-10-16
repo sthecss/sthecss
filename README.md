@@ -12,7 +12,7 @@
 
 <img align="left" alt="Coding" width="500" src="https://i.imgur.com/deTM35X.gif">
 
-<a href="https://imgur.com/1vtvCMN"><img src="https://i.imgur.com/1vtvCMN.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/ULQ7QDc"><img src="https://i.imgur.com/ULQ7QDc.jpg" title="source: imgur.com" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=70EDFB&multiline=true&width=500&height=120&lines=Agora+voc%C3%AA+me+pergunta%2C;%22O+que+tem+nesse+seu+Git%3F%22;O+necess%C3%A1rio.;E+um+pouco+mais+eventualmente." alt="Typing SVG" /></a>
 
