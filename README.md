@@ -12,9 +12,11 @@
   <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=sthecss&theme=violet-dark&hide_border=verdadeiro&locale=pt-br" />
 </a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=79F6FE&width=250&height=120&lines=Todo+dia+algo+novo;...;Ou+quase." alt="Typing SVG" /></a>
+
+
 <a href="https://imgur.com/vmlHO4a"><img src="https://i.imgur.com/vmlHO4a.gif" title="source: imgur.com" /></a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=79F6FE&width=250&height=120&lines=Todo+dia+algo+novo;...;Ou+quase." alt="Typing SVG" /></a>
 
 
