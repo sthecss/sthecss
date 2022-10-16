@@ -7,10 +7,10 @@
 </p>
 
 <a href="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical" />
 </a>
 <a href="http://github-readme-streak-stats.herokuapp.com?user=sthecss&theme=violet-dark&hide_border=verdadeiro&locale=pt-br">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sthecss&theme=violet-dark&hide_border=verdadeiro&locale=pt-br" />
+  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=sthecss&theme=violet-dark&hide_border=verdadeiro&locale=pt-br" />
 </a>
 
 <img align="right" alt="Coding" width="500" src="https://i.imgur.com/deTM35X.gif">
