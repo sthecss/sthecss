@@ -1,16 +1,20 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=FF3AA4&width=435&lines=Todo+dia;algo+novo.;(Ou+quase)..." alt="Typing SVG" /></a>
 
-<!--
-**sthecss/sthecss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://img.shields.io/badge/Aluna-UFU-FF3AA4"/>
+<img src="https://img.shields.io/badge/Curso-BCC-FF3AA4"/>
+<img src="https://img.shields.io/badge/Turma-69-FF3AA4"/>
+</p>
 
-Here are some ideas to get you started:
+<a href="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical" />
+</a>
+  .
+<a href="http://github-readme-streak-stats.herokuapp.com?user=sthecss&theme=violet-dark&hide_border=verdadeiro&locale=pt-br">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sthecss&theme=violet-dark&hide_border=verdadeiro&locale=pt-br" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="Coding" width="500" src="https://i.imgur.com/deTM35X.gif">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=70EDFB&multiline=true&width=500&height=120&lines=Agora+voc%C3%AA+me+pergunta%2C;%22O+que+tem+nesse+seu+Git%3F%22;O+necess%C3%A1rio.;E+um+pouco+mais+eventualmente." alt="Typing SVG" /></a>
+
