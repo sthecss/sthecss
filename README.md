@@ -37,5 +37,3 @@
 ┃
 
 ┗━──────────────────────╯
-
-![Snake animation](https://github.com/sthecss/sthecss/blob/output/github-contribution-grid-snake.svg)
