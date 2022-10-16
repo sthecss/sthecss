@@ -7,10 +7,14 @@
 </p>
 
 <a href="http://github-readme-streak-stats.herokuapp.com?user=sthecss&theme=violet-dark&hide_border=verdadeiro&locale=pt-br">
-  <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=sthecss&theme=violet-dark&hide_border=verdadeiro&locale=pt-br" />
+  <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=sthecss&theme=violet-dark&hide_border=verdadeiro&locale=pt-br" />
 </a>
 
-<img align="right" alt="Coding" width="500" src="https://i.imgur.com/deTM35X.gif">
+<img align="left" alt="Coding" width="500" src="https://i.imgur.com/deTM35X.gif">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=70EDFB&multiline=true&width=500&height=120&lines=Agora+voc%C3%AA+me+pergunta%2C;%22O+que+tem+nesse+seu+Git%3F%22;O+necess%C3%A1rio.;E+um+pouco+mais+eventualmente." alt="Typing SVG" /></a>
 
+
+<a href="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical" />
+</a>
