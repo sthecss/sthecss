@@ -18,5 +18,5 @@
 
 
 <a href="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sthecss&show_icons=true&theme=radical" />
 </a>
