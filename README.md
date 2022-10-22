@@ -15,19 +15,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=79F6FE&width=250&height=200&lines=Todo+dia+algo+novo;...;Ou+quase." alt="Typing SVG" /></a>
 
 
-<img align="right" width="400" src="https://i.imgur.com/vmlHO4a.gif" title="source: imgur.com" /></a>
 
-
-┏━──────────────────────╮
-
-┃ Sthephanny CS Santos;
-
-┃ 18 anos;
-
-┃ Santos / Uberlândia
-
-┃ Ela/Dela;
-
-┃ BCC - UFU;
-
-┗━──────────────────────╯
