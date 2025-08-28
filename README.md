@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://img.shields.io/badge/Aluna-UFU-FF3AA4"/>
-<img src="https://img.shields.io/badge/Curso-BCC-FF3AA4"/>
-<img src="https://img.shields.io/badge/Turma-JustAGirl-FF3AA4"/>
+<img src="https://img.shields.io/badge/University-UFU-FF3AA4"/>
+<img src="https://img.shields.io/badge/Bachelor-ComputerScience-FF3AA4"/>
+<img src="https://img.shields.io/badge/:)-JustAGirl-FF3AA4"/>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </p>
 
-I'm a **Computer Science** student who loves **algorithms, DnD, and game mods**. Currently studying and always exploring new technologies!
+I'm a **Computer Science** student who loves **algorithms, DnD, and game mods**.
 
 ## 🚀 Technologies & Tools
 
