@@ -72,9 +72,7 @@ and academic productivity environments.
 
 ## **GitHub Projects of Personal Interest**
 
-These repositories represent open-source projects I actively follow.  
-They align with my interests in graphics processing, AI, creative tooling,  
-user interface experimentation, workflow optimization, and emulation:
+These repositories represent open-source projects I actively follow. They align with my interests:
 
 * **AI-based super-resolution & image processing:**  
   https://github.com/nagadomi/waifu2x  
