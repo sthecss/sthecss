@@ -10,9 +10,7 @@ and experimenting with modding, tooling, and digital customization.
 
 <br>
 
-## **My Stats**
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sthecss&layout=compact&theme=dracula&card_width=500)
 
 <br>
 
@@ -72,22 +70,15 @@ and academic productivity environments.
 
 ## **GitHub Projects of Personal Interest**
 
-These repositories represent open-source projects I actively follow. They align with my interests:
+These repositories represent open-source projects I actively follow.
 
-* **AI-based super-resolution & image processing:**  
-  https://github.com/nagadomi/waifu2x  
-
-* **Interface enhancements for creative tools:**  
-  https://github.com/Diolinux/PhotoGIMP  
-
-* **Desktop environments & UI experiments:**  
-  https://github.com/pear-devs/pear-desktop  
-
-* **Lightweight, usability-focused text editors:**  
-  https://github.com/0x7c13/Notepads  
-
-* **Emulation & game preservation:**  
-  https://github.com/hrydgard/ppsspp  
+| 🛠️ | 📝 | 🔗 |
+| :--- | :--- | :--- |
+| **waifu2x** | AI-based super-resolution & image processing | [Visit Repository](https://github.com/nagadomi/waifu2x) |
+| **PhotoGIMP** | Interface enhancements for creative tools | [Visit Repository](https://github.com/Diolinux/PhotoGIMP) |
+| **Pear Desktop** | Desktop environments & UI experiments | [Visit Repository](https://github.com/pear-devs/pear-desktop) |
+| **Notepads** | Lightweight, usability-focused text editor | [Visit Repository](https://github.com/0x7c13/Notepads) |
+| **PPSSPP** | Emulation & game preservation | [Visit Repository](https://github.com/hrydgard/ppsspp) |
 
 <br>
 
@@ -95,8 +86,7 @@ These repositories represent open-source projects I actively follow. They align 
 
 ## **Where to Find Me**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthephanny-css/)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sthephanny.css@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthephanny-css/)   [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sthephanny.css@gmail.com)
 
 <br>
 
